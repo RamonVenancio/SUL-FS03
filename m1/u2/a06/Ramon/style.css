@@ -1,0 +1,16 @@
+
+
+body{
+    background-color: #acd8e7;
+}
+
+h1{
+    color: white;
+    margin-left: 40px;
+    background-color: red;
+}
+
+p{
+    font-weight: bold;
+    color: black;
+}
